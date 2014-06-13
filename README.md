@@ -4,8 +4,8 @@ File Sync
 File Sync for Linux
 
 
-Prerequistities & Installation
-==============================
+Prerequisites & Installation
+============================
 
 Before everything, you must have the permission to access to the remote host by ssh. OpenSSH server is preinstalled on Mac OsX and you don't need to install any additional package. Just need to do some system settings. To enable the OpenSSH server on Mac OS X, open System Preferences and click to Sharing. And than, check the Remote Login box to enable SSH, then select the radio button labeled All Users from the Allow Access For section.
 
