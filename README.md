@@ -1,7 +1,7 @@
 Pynchroniser
 ============
 
-File synchroniser for Linux
+Auto synchronization tool from remote files to local. It's running by cron daemon. Also only one instance allowed. If synchronization takes long time, cron can't run second instance.
 
 
 Prerequisites & Installation
