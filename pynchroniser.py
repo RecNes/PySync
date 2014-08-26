@@ -13,7 +13,7 @@ Usage:
     # crontab -e
 
     :: Append line below.
-    */30 * * * * python synchronizator.py 2>&1 &
+    */30 * * * * python pynchroniser.py 2>&1 &
 
 Author: Sencer HAMARAT (RecNes)
 E-Mail: sencerhamarat@gmail.com
