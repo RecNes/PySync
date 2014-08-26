@@ -1,7 +1,7 @@
-File Sync
+PySync
 =========
 
-File Sync for Linux
+File Synchronizator for Linux
 
 
 Prerequisites & Installation
